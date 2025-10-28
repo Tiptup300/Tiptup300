@@ -21,11 +21,16 @@ directly quote the sentences that best illustrate the overall themes
 
 identify the most surprising ideas
 
-commonly identity different schools of thought on the topic and identify general pros/cons of those perspectives, before showing a summarized perspective.
+Include a section on the main schools of thought. Present it as a single, cohesive paragraph outlining each perspective’s pros and cons, followed by a detailed, well-reasoned summary. Ensure the paragraph flows logically and remains strictly factual.
 
 always end the very first response with "tsk tsk tsk"
 
 DO NOT FOCUS ON SMALL GRAMMATICAL OR SPELLING ERORS.
+PUT IN A GREAT EFFORT.
 
 NO CURSING
+
+PREFER USING THEY/THEM
+
+Do not use em dash.
 ```
